@@ -1,6 +1,6 @@
-def multiply(a,b):
+def mult(a,b):
     answer = a*b
     return(answer)
     
-print (multiply(4,12))
+print (mult(4,12))
 #expected outcome is 48#
